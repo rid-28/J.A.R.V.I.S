@@ -7,10 +7,14 @@ from tkinter import scrolledtext
 import customtkinter as ctk
 import threading
 from openai import OpenAI
+from dotenv import load_dotenv  
+import os
+
+load_dotenv()  
 
 client = OpenAI(
-  base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+    base_url="https://openrouter.ai/api/v1",
+    api_key=os.getenv("OPENROUTER_API_KEY"),
 )
 
 # Theme colors
