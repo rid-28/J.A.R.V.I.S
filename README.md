@@ -1,23 +1,3 @@
-# Jarvis AI Assistant
-
-Personal AI assistant application that combines speech and text-based conversation for intelligent automation, instant search, and real-time OpenAI-powered responses.
-
-## Features
-- Voice and text input for seamless interaction
-- Context-aware responses using OpenAI API
-- Intelligent automation & instant information retrieval
-- Modern, responsive GUI with custom themes & dynamic chat bubbles
-- Voice feedback using built-in text-to-speech (pyttsx3)
-- Easy manual typing when speech isn’t recognized
-
-## Screenshots
-
-## Installation
-
-**Requirements**  
-- Python 3.8+
-- Microphone and speaker (for voice features)
-
 # 🤖 JARVIS AI – Desktop Voice Assistant
 
 A sleek, responsive, and fully functional **AI-powered desktop voice assistant** that listens continuously, responds naturally, and performs real actions like searching the web, opening websites, switching themes, and answering questions using GPT.
@@ -42,30 +22,23 @@ It makes the assistant feel more human, more interactive, and actually useful.
 ## ✨ Features
 
 - 🎤 **Live Speech Recognition** - Understands your voice commands in real-time.
-
 - 🧠 **AI Responses (GPT)** - Uses OpenAI (via OpenRouter) to answer anything naturally.
-
 - 🗣️ **Text-to-Speech Replies** - Jarvis speaks all responses clearly using `pyttsx3`.
-
 - 💬 **Modern Chat UI**
   - Messenger-style bubbles  
   - Different colors for user & Jarvis  
   - Smooth auto-scrolling  
-
 - 🎨 **Light & Dark Themes** - Switch instantly between modes with fully adaptive bubble colors.
-
 - 🔍 **Smart Commands**
   - Search YouTube  
   - Search Google  
   - Open websites (YouTube, Gmail, Netflix, Spotify, Wikipedia, ChatGPT, etc.)  
   - Tell the current time  
   - Exit automatically  
-
 - ⚙️ **Background Listening**
   - Runs on a separate thread  
   - GUI never freezes  
   - Keeps listening until stopped  
-
 - 🖥️ **Clean CustomTkinter UI** - Rounded buttons, organized layout, responsive bubble width.
 
 ## 🛠️ Tech Stack
