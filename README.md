@@ -50,8 +50,10 @@ It makes the assistant feel more human, more interactive, and actually useful.
 - **Threading**  
 - **Webbrowser & Datetime**
 
+## 📁 Project Structure
+
 ```
-📁 Project Structure
+JARVIS
 ├── .vscode/
 ├── main.py
 ├── requirements.txt
