@@ -2,8 +2,6 @@
 
 A sleek, responsive, and fully functional **AI-powered desktop voice assistant** that listens continuously, responds naturally, and performs real actions like searching the web, opening websites, switching themes, and answering questions using GPT.
 
----
-
 ## 💡 Problem Solved
 
 Most beginner Python voice assistants are basic — no GUI, no chat bubbles, no continuous listening, and very limited functionality.
