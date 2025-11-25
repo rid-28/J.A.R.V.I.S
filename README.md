@@ -51,7 +51,6 @@ It makes the assistant feel more human, more interactive, and actually useful.
 - **Webbrowser & Datetime**
 
 ## 📁 Project Structure
-Jarvis/
 ├── .vscode/
 ├── main.py
 ├── requirements.txt
