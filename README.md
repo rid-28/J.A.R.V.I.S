@@ -50,12 +50,14 @@ It makes the assistant feel more human, more interactive, and actually useful.
 - **Threading**  
 - **Webbrowser & Datetime**
 
+```
 📁 Project Structure
 ├── .vscode/
 ├── main.py
 ├── requirements.txt
 ├── tempCodeRunnerFile.py
 └── README.md
+```
 
 ## 🚀 Getting Started
 
