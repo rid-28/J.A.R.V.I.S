@@ -51,7 +51,7 @@ It makes the assistant feel more human, more interactive, and actually useful.
 - **Webbrowser & Datetime**
 
 ```
-📁 **Project Structure**
+📁 Project Structure
 ├── .vscode/
 ├── main.py
 ├── requirements.txt
