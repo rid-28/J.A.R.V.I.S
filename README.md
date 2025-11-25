@@ -62,17 +62,15 @@ It makes the assistant feel more human, more interactive, and actually useful.
 ## 🚀 Getting Started
 
 ### 1️⃣ Install Requirements
-
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 2️⃣ Add Your API Key  
 Create a `.env` file (same folder as `main.py`) and add:
 
-OPENROUTER_API_KEY=your_api_key_here
+```OPENROUTER_API_KEY=your_api_key_here```
 
 ### 3️⃣ Run the Assistant  
-
-python main.py
+```python main.py```
 
 Jarvis will boot up, greet you, and start listening automatically.
 
